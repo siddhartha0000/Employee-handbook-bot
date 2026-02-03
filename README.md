@@ -113,7 +113,7 @@ This step helps prevent hallucination.
 
 ---
 
-## One-Line Architecture Summary (Important)
+## One-Line Architecture Summary 
 
 **Documents → Embeddings → Endee (vector storage) → Similarity search → Context → Answer generation**
 
