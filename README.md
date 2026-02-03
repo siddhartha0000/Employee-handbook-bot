@@ -1,15 +1,16 @@
 # Employee Handbook RAG Assistant
 
 ## 📚 Table of Contents
+- Problem Statement
 - Overview
-- Tech Stack
+- High-Level Architecture
+- Tech Stack Used
 - Key Features
 - Installation & Setup
 - Usage
 - Project Structure
 - Challenges Faced
 - Contact
-- License
 
 ---
 
