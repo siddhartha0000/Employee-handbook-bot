@@ -159,7 +159,7 @@ venv\Scripts\activate
 pip install -r requirements.txt 
 
 #4️⃣ Start Endee Vector Database (Docker)
-#Make sure Docker Desktop is running.
+#Make sure use are running this in command prompt and ensure Docker Desktop is running.
 docker run -d ^
   -p 8080:8080 ^
   -v endee-data:/data ^
